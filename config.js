@@ -1,21 +1,21 @@
 const config = {
   "meta": {
-    "pageTitle": "Win $400 Blue Jays Tickets - Summer Game Night Giveaway!",
-    "navBrandLogoText": "Julian Kashani",
-    "privacyPolicyLink": "https://property.ca/privacy"
+    "pageTitle": "Win a $400 Date Night for Two - Free Entry",
+    "navBrandLogoText": "Lesley Stoneham",
+    "privacyPolicyLink": "mailto:lesley@stoneandco.ca?subject=Privacy%20Policy%20Request"
   },
   "giveaway": {
-    "heroHeadline": "Win <span class='highlight'>Free Toronto Blue Jays Tickets</span> for an Epic Summer Game Night!",
-    "heroSubheadline": "Score two premium seats to see the Toronto Blue Jays take on the Texas Rangers, valued at $400! Make your summer unforgettable with this all-star night out. Entry closes July 25th, winner picked July 29th.",
-    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/3x4pjwf8h1rma0cqhn6tw7t808.jpg",
-    "promotionDates": "Enter from June 27th to July 25th, 2025 - winner announced July 29th!",
-    "endDate": "2025-07-26T03:59:00.000Z",
+    "heroHeadline": "Win a <span class='highlight'>$400 Date Night</span> for Two!",
+    "heroSubheadline": "Dine fine. Sip wine. See a show. Or enjoy golf and spa. You choose your perfect night. Valued at $400. Entry ends Nov 10, 2025. Winner drawn Nov 11, 2025.",
+    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/a10d555etxrme0csmqhbk9q744.jpg",
+    "promotionDates": "Enter Oct 13–Nov 10, 2025. Winner announced Nov 11, 2025.",
+    "endDate": "2025-11-11T03:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
-    "entryFormCtaText": "Enter Game Night Draw!",
-    "name": "Blue Jays Summer Game Night Giveaway",
+    "entryFormCtaText": "Enter to Win Now!",
+    "name": "Date Night Giveaway",
     "successModalHeaderText": "You’re in the Draw!",
-    "successModalMainMessage": "Your entry for the <strong>Toronto Blue Jays Summer Game Night</strong> is in! Winner will be announced July 29th and notified by email. Good luck!",
-    "successModalEmailPrompt": "Watch your email and keep July 29th on your calendar—you could be on your way to the ballpark!"
+    "successModalMainMessage": "Your entry for the <strong>Date Night Giveaway</strong> is in! Winner will be announced Nov 11, 2025 and notified by email. Good luck!",
+    "successModalEmailPrompt": "Watch your email on Nov 11, 2025—you could be on your way to a perfect night out!"
   },
   "settings": {
     "confettiColors": [
@@ -25,8 +25,8 @@ const config = {
     ],
     "showCountdownInHero": true,
     "theme": "dark",
-    "primaryColorOverride": "#0055A4",
-    "secondaryColorOverride": "#FFEE58",
+    "primaryColorOverride": "",
+    "secondaryColorOverride": "",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
     "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
     "facebookPixelId": "1057475448873422",
@@ -35,142 +35,167 @@ const config = {
   },
   "thankYouPage": {
     "pageTitle": "Thank You for Your Entry!",
-    "headerText": "🎉 ONE MORE STEP",
-    "mainMessage": "Your spot for the <strong>Toronto Blue Jays Summer Game Night</strong> is almost locked in! You've made it to the final step of the giveaway - congratulations! Now all you need to do is follow my social media accounts to officially lock in your entry and stay connected",
-    "socialPromptText": "FOLLOW BOTH TO WIN! Complete Your Entry Now"
+    "headerText": "You're In the Running!",
+    "mainMessage": "Your entry for the Date Night Giveaway is in. We will draw on Nov 11, 2025 and email the winner. Good luck!",
+    "socialPromptText": "Follow us for updates and the winner post: Instagram @stonehamlesley and Facebook @stoneandco.ca."
   },
   "prize": {
     "images": [
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/hg2dnqs7yhrm80cqhn79nt68j8.jpg",
-        "alt": "Cheering fans at a Blue Jays baseball game"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/kkw5c1gbwdrmc0csmqhvcbfq3m.jpg",
+        "alt": "Couple toasting at a wine tasting"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/bk4ehhbc35rmc0cqhn78wzw7t8.jpg",
-        "alt": "Couple enjoying a summer night at the Rogers Centre"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/hfe09jv9tsrme0csmqhszy38pr.jpg",
+        "alt": "Elegant private dining table set for two"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/w99mghnswxrm80cqhn7bm108b0.jpg",
-        "alt": "Exciting baseball action between Toronto Blue Jays and Texas Rangers"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/vr19w3p4ysrme0csmqhr7zgxac.jpg",
+        "alt": "Stage lights and audience at a live theater"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/wzcq768e4drme0cqhn7v49g7tr.jpg",
-        "alt": "Tickets for a premier Blue Jays game experience"
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/494tbz17nnrmc0csmqjbgbrfr8.jpg",
+        "alt": "Golf green and spa essentials for a relaxing day"
       }
     ],
     "includedItems": [
       {
-        "icon": "fas fa-baseball-ball",
-        "text": "Two premium tickets to Blue Jays vs. Rangers"
+        "icon": "fas fa-heart",
+        "text": "Choose your experience: wine tasting, private dining, theater, or golf + spa"
       },
       {
-        "icon": "fas fa-user-friends",
-        "text": "Perfect for couples, friends, or a special family outing"
+        "icon": "fas fa-gift",
+        "text": "$400 toward your custom date night for two"
       },
       {
-        "icon": "fas fa-star",
-        "text": "$400 total value - for a big-time experience"
+        "icon": "fas fa-map-marker-alt",
+        "text": "Local spots for an easy, fun night out"
       },
       {
-        "icon": "fas fa-city",
-        "text": "Catch live baseball in downtown Toronto"
+        "icon": "fas fa-camera",
+        "text": "Dress up and snap a photo of you two (sharing is optional)"
       },
       {
-        "icon": "fas fa-calendar-day",
-        "text": "Game date: Summer 2025, Texas Rangers matchup"
+        "icon": "fas fa-check",
+        "text": "No purchase needed to enter"
       }
     ],
-    "name": "Toronto Blue Jays Summer Game Night Experience",
+    "name": "Ultimate Date Night Experience",
     "value": "$400 Value",
-    "description": "Imagine you and your favorite person cheering in the stands as the Blue Jays play live against the Texas Rangers! Feel the rush, eat ballpark snacks, and enjoy a big summer night in the city. This giveaway gets you <span class='highlight'>two premium tickets</span> for the best seats in the house. Whether it’s a fun date or a night with a friend, you’ll remember it all year long.",
-    "limitedTimeOfferText": "Summer Only - Limited Entry!",
-    "ctaButtonText": "I Want These Game Tickets!"
+    "description": "Picture this: you and your special person dressed up, sharing a great meal or a fine glass of wine. Maybe a live show after. Or a calm day with golf and spa. You pick the plan. We cover up to $400. Make memories. Take a photo. Share your night and tag us. Sharing is optional and does not affect your odds.",
+    "limitedTimeOfferText": "Limited Fall Giveaway – Ends Nov 10",
+    "ctaButtonText": "I Want This Date Night!"
   },
   "howToEnter": {
     "steps": [
       {
         "icon": "fas fa-edit",
         "title": "Fill Out the Form",
-        "description": "Enter your name and email in the quick form below—done in under 30 seconds!"
+        "description": "Add your name and email. It takes less than 30 seconds."
       },
       {
-        "icon": "fas fa-question-circle",
-        "title": "Answer Simple Questions",
-        "description": "Tell us a little about who you’d bring and why you’d love this summer baseball night."
+        "icon": "fas fa-check-circle",
+        "title": "Answer Quick Questions",
+        "description": "Tell us a bit about your plans. Just a few short taps."
+      },
+      {
+        "icon": "fas fa-bell",
+        "title": "Watch Your Inbox",
+        "description": "We draw on Nov 11, 2025 and email the winner."
       },
       {
         "icon": "fas fa-trophy",
-        "title": "Get Your Chance to Win!",
-        "description": "That’s it! Watch your inbox—winner picked July 29th."
+        "title": "Pick Your Night",
+        "description": "If you win, choose wine, dining, theater, or golf + spa."
       }
     ],
     "highlights": [
       {
         "icon": "fas fa-clock",
-        "text": "Super quick and easy entry"
+        "text": "30-second entry"
       },
       {
         "icon": "fas fa-gift",
-        "text": "No purchase needed"
+        "text": "Free to enter"
       },
       {
-        "icon": "fas fa-heart",
-        "text": "Great night out with someone special"
+        "icon": "fas fa-glass-cheers",
+        "text": "You choose the experience"
       },
       {
-        "icon": "fas fa-star",
-        "text": "Random, fair winner pick"
+        "icon": "fas fa-shield-alt",
+        "text": "Fair, random draw"
+      },
+      {
+        "icon": "fas fa-users",
+        "text": "Perfect for couples and downsizers"
+      },
+      {
+        "icon": "fas fa-camera",
+        "text": "Photo-friendly night out"
       }
     ]
   },
   "rules": {
-    "finePrintText": "Please read the fine print before entering. Anyone can enter.",
+    "finePrintText": "Please read the fine print before entering.",
     "showTipsSection": true,
     "faq": [
       {
-        "q": "Who can enter this giveaway?",
-        "a": "Anyone 18 or older living in Ontario can enter. Couples, families, and friends are welcome!"
+        "q": "Who can enter?",
+        "a": "Must be 18+ and local to our community. No purchase needed. Void where prohibited."
       },
       {
-        "q": "How will I know if I win?",
-        "a": "Winner will get an email from jk@property.ca on July 29th. Check your inbox and spam!"
+        "q": "What do I win?",
+        "a": "A $400 date night for two. You can choose wine tasting, private dining, theater tickets, or golf + spa, based on local availability."
       },
       {
-        "q": "Do I have to pay for anything?",
-        "a": "Nope—the tickets are totally free! Just show up and enjoy the game."
+        "q": "Do I have to share a photo?",
+        "a": "We love when you share and tag us on Instagram @stonehamlesley or Facebook @stoneandco.ca, but it is optional and does not affect your odds."
       },
       {
-        "q": "What if I can’t make the game?",
-        "a": "If you can’t attend, let us know so someone else can use this amazing prize."
+        "q": "How will I receive the prize?",
+        "a": "We will provide gift card(s) or booking support to local venues to cover up to $400. If your picks cost more, you cover the difference."
+      },
+      {
+        "q": "When does it end?",
+        "a": "Entries close Nov 10, 2025. We draw the winner on Nov 11, 2025."
+      },
+      {
+        "q": "Can I enter more than once?",
+        "a": "One entry per person to keep it fair."
+      },
+      {
+        "q": "Is this sponsored by any brand?",
+        "a": "No. This giveaway is run by Lesley Stoneham and is not sponsored by any restaurant, theater, spa, or golf course."
       }
     ],
     "tips": [
       "Double-check your email for typos—make sure you can be reached",
       "Think of who you'd take for this special night",
       "Tell family and friends to enter too",
-      "Follow Julian Kashani on Instagram or Facebook for the winner post"
+      "Follow Lesley Stoneham on Instagram @stonehamlesley or Facebook @stoneandco.ca for the winner post"
     ],
     "fairSelectionInfo": {
-      "title": "Fair and Random Drawing",
-      "text": "Every entry has the same fair shot! Winner is chosen by a random draw. No tricks, just luck."
+      "title": "Fair and Random Winner Selection",
+      "text": "We pick one winner at random from all valid entries. Every entry has the same chance to win."
     },
     "importantNotice": {
-      "title": "Watch Your Email",
-      "text": "Only the email you use here will be contacted. Be sure to check your spam, too, on July 29th."
+      "title": "Winner Notification",
+      "text": "We will notify the winner by email on Nov 11, 2025. Check your inbox and spam folder. We may also post on our social pages for transparency."
     }
   },
   "entryForm": {
     "sharePlatforms": {
-      "facebook": "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fgiveaway-558.netlify.app%2Fadmin",
-      "twitter": "https://twitter.com/intent/tweet?url=https%3A%2F%2Fgiveaway-558.netlify.app%2Fadmin&text=Win%20Toronto%20Blue%20Jays%20Tickets%20for%20an%20Epic%20Summer%20Game%20Night!"
+      "facebook": "https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2FGiveaway-67.netlify.app",
+      "twitter": "https://twitter.com/intent/tweet?url=http%3A%2F%2FGiveaway-67.netlify.app&text=Win%20a%20%24400%20Date%20Night%20for%20Two%20-%20Free%20Entry"
     },
-    "subtitle": "Enter your details below for a shot at your dream Blue Jays night out!",
-    "entryCountText": "Hundreds of Toronto fans are already in—don’t miss your chance!",
-    "socialSharePrompt": "Share with your friends—make it a race to win!"
+    "subtitle": "Enter below for your chance to win a $400 date night you will love!",
+    "entryCountText": "Entries are open now. Don’t miss out.",
+    "socialSharePrompt": "After you enter, share this with a couple who would love a night out."
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1750445840887_0",
+      "id": "q_auto_1757969005264_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -192,7 +217,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750445840887_1",
+      "id": "q_auto_1757969005264_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -200,8 +225,8 @@ const config = {
           "text": "Yes, sometime in 2025"
         },
         {
-          "value": "Yes, in the next 1–2 years",
-          "text": "Yes, in the next 1–2 years"
+          "value": "Yes, in the next 1 - 2 years",
+          "text": "Yes, in the next 1 - 2 years"
         },
         {
           "value": "Not at the moment",
@@ -214,7 +239,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1750445840887_2",
+      "id": "q_auto_1757969005264_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -238,31 +263,31 @@ const config = {
   ],
   "footerContact": {
     "social": {
-      "facebook": "https://www.facebook.com/JulianKashaniRealtor",
-      "instagram": "http://instagram.com/juliankashani"
+      "facebook": "https://www.facebook.com/stoneandco.ca/",
+      "instagram": "https://instagram.com/stonehamlesley"
     },
     "agentContact": {
-      "name": "Julian Kashani",
-      "title": "Real Estate Agent",
-      "phone": "(416) 837-7775",
-      "email": "jk@property.ca"
+      "name": "Lesley Stoneham",
+      "title": "Real Estate",
+      "phone": "(519) 217-8966",
+      "email": "lesley@stoneandco.ca"
     },
-    "footerDisclaimer": "This giveaway is sponsored by Julian Kashani, REALTOR®, and is not sponsored by or affiliated with the Toronto Blue Jays or Texas Rangers. Winner selected at random from entries received by July 25th, 2025. Must be 18+ and an Ontario resident to enter.",
+    "footerDisclaimer": "This giveaway is sponsored by Lesley Stoneham and is not affiliated with or endorsed by any restaurant, theater, spa, or golf course. No purchase necessary. Must be 18+ and local to our service area. Entries close Nov 10, 2025. Winner selected at random on Nov 11, 2025 from eligible entries. Void where prohibited.",
     "organizerLogoUrl": "",
     "secondaryLogoUrl": "",
-    "secondaryLogoAlt": "Property.Ca Brokerage Logo",
-    "organizerName": "Julian Kashani",
-    "brokerageName": "Property.Ca",
-    "address": "36 Distillery Lane Unit 500 Toronto M5A3C4",
-    "email": "jk@property.ca",
-    "phone": "(416) 837-7775",
-    "copyrightOwner": "Property.Ca"
+    "secondaryLogoAlt": "",
+    "organizerName": "Lesley Stoneham",
+    "brokerageName": "",
+    "address": "",
+    "email": "lesley@stoneandco.ca",
+    "phone": "(519) 217-8966",
+    "copyrightOwner": "Lesley Stoneham"
   },
   "deploymentInfo": {
-    "repoName": "Giveaway-558",
-    "repoUrl": "https://github.com/arslvn93/Giveaway-558",
-    "netlifyUrl": "http://Giveaway-558.netlify.app",
+    "repoName": "Giveaway-67",
+    "repoUrl": "https://github.com/arslvn93/Giveaway-67",
+    "netlifyUrl": "http://Giveaway-67.netlify.app",
     "netlifyId": "",
-    "tag": "Blue Jays Giveaway"
+    "tag": "Date Night Giveaway"
   }
 };
