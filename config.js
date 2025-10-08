@@ -189,7 +189,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1759930279746_0",
+      "id": "q_auto_1759954184798_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -211,7 +211,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759930279746_1",
+      "id": "q_auto_1759954184798_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -233,7 +233,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1759930279746_2",
+      "id": "q_auto_1759954184798_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -279,12 +279,12 @@ const config = {
       "email": "lesley@stoneandco.ca"
     },
     "footerDisclaimer": "This giveaway is sponsored by Lesley Stoneham and is not affiliated with or endorsed by any restaurant, theater, spa, or golf course. No purchase necessary. Must be 18+ and local to our service area. Entries close Nov 10, 2025. Winner selected at random on Nov 11, 2025 from eligible entries. Void where prohibited.",
-    "organizerLogoUrl": "https://iili.io/KjwgxvR.webp",
-    "secondaryLogoUrl": "https://iili.io/KjwgoYv.webp",
+    "organizerLogoUrl": "https://iili.io/KjLBYYX.webp",
+    "secondaryLogoUrl": "https://iili.io/KjLBavn.webp",
     "secondaryLogoAlt": "Logo",
     "organizerName": "Lesley Stoneham",
     "brokerageName": "Real Broker Ontario LTD",
-    "address": "130 King Street West Suite 1900 , , Toronto , ON,  M5X 1E3, Canada",
+    "address": "130 King Street West Suite 1900 , Toronto , ON,  M5X 1E3, Canada",
     "email": "lesley@stoneandco.ca",
     "phone": "(519) 217-8966",
     "copyrightOwner": "Lesley Stoneham"
