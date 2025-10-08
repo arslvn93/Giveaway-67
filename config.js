@@ -28,16 +28,10 @@ const config = {
     "primaryColorOverride": "",
     "secondaryColorOverride": "",
     "ghlWebhookUrl": "https://services.leadconnectorhq.com/hooks/bJbBMjcW619cJrLUJ3kY/webhook-trigger/3yNsurfrt9oBUtRBuygb",
-    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate",
     "facebookPixelId": "1057475448873422",
     "salesGeniusAppApi": "",
-    "followUpBossEmail": ""
-  },
-  "thankYouPage": {
-    "pageTitle": "Thank You for Your Entry!",
-    "headerText": "You're In the Running!",
-    "mainMessage": "Your entry for the Date Night Giveaway is in. We will draw on Nov 11, 2025 and email the winner. Good luck!",
-    "socialPromptText": "Follow us for updates and the winner post: Instagram @stonehamlesley and Facebook @stoneandco.ca."
+    "followUpBossEmail": "",
+    "webhookUrl": "https://n8n.salesgenius.co/webhook/giveawayupdate"
   },
   "prize": {
     "images": [
@@ -137,8 +131,6 @@ const config = {
     ]
   },
   "rules": {
-    "finePrintText": "Please read the fine print before entering.",
-    "showTipsSection": true,
     "faq": [
       {
         "q": "Who can enter?",
@@ -175,6 +167,8 @@ const config = {
       "Tell family and friends to enter too",
       "Follow Lesley Stoneham on Instagram @stonehamlesley or Facebook @stoneandco.ca for the winner post"
     ],
+    "finePrintText": "Please read the fine print before entering.",
+    "showTipsSection": true,
     "fairSelectionInfo": {
       "title": "Fair and Random Winner Selection",
       "text": "We pick one winner at random from all valid entries. Every entry has the same chance to win."
@@ -195,7 +189,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1757969005264_0",
+      "id": "q_auto_1759930279746_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -217,7 +211,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1757969005264_1",
+      "id": "q_auto_1759930279746_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -239,7 +233,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1757969005264_2",
+      "id": "q_auto_1759930279746_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -261,6 +255,18 @@ const config = {
       ]
     }
   ],
+  "thankYouPage": {
+    "socialLinks": {
+      "facebook": "",
+      "instagram": "",
+      "twitter": "",
+      "tiktok": ""
+    },
+    "pageTitle": "Thank You for Your Entry!",
+    "headerText": "You're In the Running!",
+    "mainMessage": "Your entry for the Date Night Giveaway is in. We will draw on Nov 11, 2025 and email the winner. Good luck!",
+    "socialPromptText": "Follow us for updates and the winner post: Instagram @stonehamlesley and Facebook @stoneandco.ca."
+  },
   "footerContact": {
     "social": {
       "facebook": "https://www.facebook.com/stoneandco.ca/",
@@ -273,12 +279,12 @@ const config = {
       "email": "lesley@stoneandco.ca"
     },
     "footerDisclaimer": "This giveaway is sponsored by Lesley Stoneham and is not affiliated with or endorsed by any restaurant, theater, spa, or golf course. No purchase necessary. Must be 18+ and local to our service area. Entries close Nov 10, 2025. Winner selected at random on Nov 11, 2025 from eligible entries. Void where prohibited.",
-    "organizerLogoUrl": "",
-    "secondaryLogoUrl": "",
-    "secondaryLogoAlt": "",
+    "organizerLogoUrl": "https://iili.io/KjwgxvR.webp",
+    "secondaryLogoUrl": "https://iili.io/KjwgoYv.webp",
+    "secondaryLogoAlt": "Logo",
     "organizerName": "Lesley Stoneham",
-    "brokerageName": "",
-    "address": "",
+    "brokerageName": "Real Broker Ontario LTD",
+    "address": "130 King Street West Suite 1900 , , Toronto , ON,  M5X 1E3, Canada",
     "email": "lesley@stoneandco.ca",
     "phone": "(519) 217-8966",
     "copyrightOwner": "Lesley Stoneham"
