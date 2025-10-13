@@ -184,7 +184,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760397736756_0",
+      "id": "q_auto_1760397770015_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -206,7 +206,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760397736756_1",
+      "id": "q_auto_1760397770015_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -228,7 +228,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760397736756_2",
+      "id": "q_auto_1760397770015_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
@@ -273,7 +273,7 @@ const config = {
       "phone": "(519) 217-8966",
       "email": "lesley@stoneandco.ca"
     },
-    "footerDisclaimer": "This giveaway is sponsored by Lesley Stoneham and is not affiliated with or endorsed by any restaurant, theater, spa, or golf course. No purchase necessary. Must be 18+ and local to our service area. Entries close Nov 10, 2025. Winner selected at random on Nov 11, 2025 from eligible entries. Void where prohibited.",
+    "footerDisclaimer": "This giveaway is sponsored by Lesley Stoneham and is not affiliated with or endorsed by any restaurant. No purchase necessary. Must be 18+ and local to our service area. Entries close Nov 10, 2025. Winner selected at random on Nov 11, 2025 from eligible entries. Void where prohibited.",
     "organizerLogoUrl": "https://iili.io/KjLBYYX.webp",
     "secondaryLogoUrl": "https://iili.io/KjLBavn.webp",
     "secondaryLogoAlt": "Logo",
