@@ -1,6 +1,6 @@
 const config = {
   "meta": {
-    "pageTitle": "Win a $400 Date Night for Two - Free Entry",
+    "pageTitle": "Win a $400 Dinner Date Night for Two - Free Entry",
     "navBrandLogoText": "Lesley Stoneham",
     "privacyPolicyLink": "mailto:lesley@stoneandco.ca?subject=Privacy%20Policy%20Request"
   },
@@ -184,7 +184,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760397770015_0",
+      "id": "q_auto_1760397795915_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -206,7 +206,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760397770015_1",
+      "id": "q_auto_1760397795915_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -228,7 +228,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760397770015_2",
+      "id": "q_auto_1760397795915_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
