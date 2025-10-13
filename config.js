@@ -93,14 +93,9 @@ const config = {
         "description": "Tell us a bit about your plans. Just a few short taps."
       },
       {
-        "icon": "fas fa-bell",
-        "title": "Watch Your Inbox",
-        "description": "We draw on Nov 11, 2025 and email the winner."
-      },
-      {
-        "icon": "fas fa-trophy",
-        "title": "Pick Your Night",
-        "description": "If you win, choose wine, dining, theater, or golf + spa."
+        "icon": "fa-brands fa-square-instagram",
+        "title": "Follow My Page ",
+        "description": "Follow @stonehamlesley on Instagram"
       }
     ],
     "highlights": [
@@ -138,7 +133,7 @@ const config = {
       },
       {
         "q": "What do I win?",
-        "a": "A $400 date night for two. You can choose wine tasting, private dining, theater tickets, or golf + spa, based on local availability."
+        "a": "A $400 date night for two. You can choose wine tasting or private dining, based on local availability."
       },
       {
         "q": "Do I have to share a photo?",
@@ -158,11 +153,11 @@ const config = {
       },
       {
         "q": "Is this sponsored by any brand?",
-        "a": "No. This giveaway is run by Lesley Stoneham and is not sponsored by any restaurant, theater, spa, or golf course."
+        "a": "No. This giveaway is run by Lesley Stoneham and is not sponsored by any restaurant. "
       }
     ],
     "tips": [
-      "Double-check your email for typos—make sure you can be reached",
+      "Double-check your email for typos, make sure you can be reached",
       "Think of who you'd take for this special night",
       "Tell family and friends to enter too",
       "Follow Lesley Stoneham on Instagram @stonehamlesley or Facebook @stoneandco.ca for the winner post"
@@ -189,7 +184,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760397575959_0",
+      "id": "q_auto_1760397736756_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -211,7 +206,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760397575959_1",
+      "id": "q_auto_1760397736756_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -233,7 +228,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760397575959_2",
+      "id": "q_auto_1760397736756_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
