@@ -55,7 +55,7 @@ const config = {
     "includedItems": [
       {
         "icon": "fas fa-heart",
-        "text": "Choose your experience: wine tasting, private dining, theater, or golf + spa"
+        "text": "Night out at a nice restaurant on me"
       },
       {
         "icon": "fas fa-gift",
@@ -74,9 +74,9 @@ const config = {
         "text": "No purchase needed to enter"
       }
     ],
-    "name": "Ultimate Date Night Experience",
+    "name": "Ultimate Date Night Dining Experience",
     "value": "$400 Value",
-    "description": "Picture this: you and your special person dressed up, sharing a great meal or a fine glass of wine. Maybe a live show after. Or a calm day with golf and spa. You pick the plan. We cover up to $400. Make memories. Take a photo. Share your night and tag us. Sharing is optional and does not affect your odds.",
+    "description": "Picture this: you and your special person dressed up, sharing a great meal or a fine glass of wine. We cover up to $400. Make memories. Take a photo. Share your night and tag us. Sharing is optional and does not affect your odds.",
     "limitedTimeOfferText": "Limited Fall Giveaway – Ends Nov 10",
     "ctaButtonText": "I Want This Date Night!"
   },
@@ -189,7 +189,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760397511538_0",
+      "id": "q_auto_1760397575959_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -211,7 +211,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760397511538_1",
+      "id": "q_auto_1760397575959_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -233,7 +233,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760397511538_2",
+      "id": "q_auto_1760397575959_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
