@@ -36,11 +36,11 @@ const config = {
   "prize": {
     "images": [
       {
-        "src": "https://i.ibb.co/6cShqKC5/Untitled-design.png",
+        "src": "https://images.pexels.com/photos/1850595/pexels-photo-1850595.jpeg?_gl=1*1mdm4xm*_ga*NzQwMzEzNDM0LjE3MzY0NDgxMDI.*_ga_8JE65Q40S6*czE3NjAzOTYwNjQkbzE5JGcxJHQxNzYwMzk3ODM4JGo1MyRsMCRoMA..",
         "alt": "$400 Gift Card"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/hfe09jv9tsrme0csmqhszy38pr.jpg",
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/hfe09jv9tsrme0csmqhszy38pr.jpg ",
         "alt": "Elegant private dining table set for two"
       },
       {
@@ -184,7 +184,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760397795915_0",
+      "id": "q_auto_1760397892864_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -206,7 +206,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760397795915_1",
+      "id": "q_auto_1760397892864_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -228,7 +228,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760397795915_2",
+      "id": "q_auto_1760397892864_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
