@@ -83,19 +83,19 @@ const config = {
   "howToEnter": {
     "steps": [
       {
-        "icon": "fas fa-edit",
-        "title": "Fill Out the Form",
+        "icon": "fa-square-instagram",
+        "title": "Follow My Page",
+        "description": " Follow @stonehamlesley on Instagram"
+      },
+      {
+        "icon": "fas fa-edit fa-brands",
+        "title": "Fill Out the Form Follow My Page ",
         "description": "Add your name and email. It takes less than 30 seconds."
       },
       {
         "icon": "fas fa-check-circle",
         "title": "Answer Quick Questions",
-        "description": "Tell us a bit about your plans. Just a few short taps."
-      },
-      {
-        "icon": "fa-brands fa-square-instagram",
-        "title": "Follow My Page ",
-        "description": "Follow @stonehamlesley on Instagram"
+        "description": "Tell us a bit about you."
       }
     ],
     "highlights": [
@@ -184,7 +184,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760531383232_0",
+      "id": "q_auto_1760531509615_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -206,7 +206,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760531383232_1",
+      "id": "q_auto_1760531509615_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -228,7 +228,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760531383232_2",
+      "id": "q_auto_1760531509615_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
