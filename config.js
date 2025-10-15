@@ -2,7 +2,7 @@ const config = {
   "meta": {
     "pageTitle": "Win a $400 Dinner Date Night for Two - Free Entry",
     "navBrandLogoText": "Lesley Stoneham",
-    "privacyPolicyLink": "mailto:lesley@stoneandco.ca?subject=Privacy%20Policy%20Request"
+    "privacyPolicyLink": "https://onereal.ca/pages/privacy-policy"
   },
   "giveaway": {
     "heroHeadline": "Win a <span class='highlight'>$400 Date Night</span> for Two!",
@@ -184,7 +184,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1760532047725_0",
+      "id": "q_auto_1760532717359_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -206,7 +206,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760532047725_1",
+      "id": "q_auto_1760532717359_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -228,7 +228,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1760532047725_2",
+      "id": "q_auto_1760532717359_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
