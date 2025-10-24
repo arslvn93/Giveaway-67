@@ -75,9 +75,9 @@ const config = {
         "text": "No purchase needed to enter"
       }
     ],
-    "name": "Ultimate Date Night Dining Experience",
+    "name": "Ultimate Date Night At Mrs. Mitchell's",
     "value": "$400 Value",
-    "description": "Picture this: you and your special person dressed up, sharing a great meal or a fine glass of wine. We cover up to $400. Make memories. Take a photo. Share your night and tag us. Sharing is optional and does not affect your odds.",
+    "description": "Picture this: You and your special person, dressed up and enjoying an unforgettable evening at Mrs. Mitchell’s Restaurant in Mulmur. Savor fine food, raise a glass of wine, and let the charm of this historic 1889 schoolhouse set the scene.\n\nWe’re giving away up to $400 toward your dining experience. Enter now for your chance to enjoy an evening filled with amazing food, great conversation, and lasting memories.",
     "limitedTimeOfferText": "Limited Fall Giveaway – Ends Nov 10",
     "ctaButtonText": "I Want This Date Night!"
   },
@@ -185,7 +185,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1761311999382_0",
+      "id": "q_auto_1761320233083_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -207,7 +207,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1761311999382_1",
+      "id": "q_auto_1761320233083_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -229,7 +229,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1761311999382_2",
+      "id": "q_auto_1761320233083_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
