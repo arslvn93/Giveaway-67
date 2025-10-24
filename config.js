@@ -45,7 +45,7 @@ const config = {
         "alt": "Elegant private dining table set for two"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/vr19w3p4ysrme0csmqhr7zgxac.jpg",
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-fall-decor(1).jpg",
         "alt": "Stage lights and audience at a live theater"
       },
       {
@@ -185,7 +185,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1761320389750_0",
+      "id": "q_auto_1761320452092_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -207,7 +207,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1761320389750_1",
+      "id": "q_auto_1761320452092_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -229,7 +229,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1761320389750_2",
+      "id": "q_auto_1761320452092_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
