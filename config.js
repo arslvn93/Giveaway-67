@@ -110,7 +110,7 @@ const config = {
       },
       {
         "icon": "fas fa-glass-cheers",
-        "text": "You choose the experience"
+        "text": "Dinner At Mrs. Mitchell's "
       },
       {
         "icon": "fas fa-shield-alt",
@@ -134,7 +134,7 @@ const config = {
       },
       {
         "q": "What do I win?",
-        "a": "A $400 date night for two. You can choose wine tasting or private dining, based on local availability."
+        "a": "A $400 fine dining experience for two at Mrs. Mitchell’s Restaurant in Mulmur. Enjoy an elegant evening of exceptional food, wine, and ambiance inside a beautifully restored 1889 schoolhouse."
       },
       {
         "q": "Do I have to share a photo?",
@@ -142,7 +142,7 @@ const config = {
       },
       {
         "q": "How will I receive the prize?",
-        "a": "We will provide gift card(s) or booking support to local venues to cover up to $400. If your picks cost more, you cover the difference."
+        "a": "The winner will receive a gift card or dining credit covering up to $400 toward the experience at Mrs. Mitchell’s Restaurant. If the total for your dinner exceeds the prize amount, the winner can cover the difference directly."
       },
       {
         "q": "When does it end?",
@@ -161,7 +161,7 @@ const config = {
       "Double-check your email for typos, make sure you can be reached",
       "Think of who you'd take for this special night",
       "Tell family and friends to enter too",
-      "Follow Lesley Stoneham on Instagram @stonehamlesley or Facebook @stoneandco.ca for the winner post"
+      "Follow Lesley Stoneham on Instagram @stonehamlesley or Facebook @stoneandco.ca "
     ],
     "finePrintText": "Please read the fine print before entering.",
     "showTipsSection": true,
@@ -185,7 +185,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1761320621791_0",
+      "id": "q_auto_1761320795073_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -207,7 +207,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1761320621791_1",
+      "id": "q_auto_1761320795073_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -229,7 +229,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1761320621791_2",
+      "id": "q_auto_1761320795073_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
