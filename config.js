@@ -1,12 +1,12 @@
 const config = {
   "meta": {
-    "pageTitle": "Win a $400 Dinner Date Night for Two - Free Entry",
+    "pageTitle": "Your Chance to Enjoy a $400 Romantic Dinner for Two at Mrs. Mitchell’s",
     "navBrandLogoText": "Lesley Stoneham",
     "privacyPolicyLink": "https://onereal.ca/pages/privacy-policy"
   },
   "giveaway": {
     "heroHeadline": "Win a <span class='highlight'>$400 Date Night</span> for Two!",
-    "heroSubheadline": "Dine fine. Sip wine. You choose your perfect night. Valued at $400. Entry ends Nov 10, 2025. Winner drawn Nov 11, 2025.",
+    "heroSubheadline": "Romance. Flavor. History. Win a $400 night out at Mrs. Mitchell’s in Mulmur. Entry ends Nov 10, 2025. Winner drawn Nov 11, 2025.",
     "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-fall-decor(1).jpg",
     "promotionDates": "Enter by Nov 10, 2025. Winner announced Nov 11, 2025.",
     "endDate": "2025-11-11T03:59:00.000Z",
@@ -185,7 +185,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1761320293049_0",
+      "id": "q_auto_1761320389750_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -207,7 +207,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1761320293049_1",
+      "id": "q_auto_1761320389750_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -229,7 +229,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1761320293049_2",
+      "id": "q_auto_1761320389750_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
