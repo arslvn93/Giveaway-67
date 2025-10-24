@@ -56,19 +56,19 @@ const config = {
     "includedItems": [
       {
         "icon": "fas fa-heart",
-        "text": "Night out at a nice restaurant on me"
+        "text": "A romantic dinner for two at Mrs. Mitchell’s Restaurant in Mulmur"
       },
       {
         "icon": "fas fa-gift",
-        "text": "$400 toward your custom date night for two"
+        "text": "$400 toward your fine dining experience"
       },
       {
         "icon": "fas fa-map-marker-alt",
-        "text": "Local spots for an easy, fun night out"
+        "text": "A cozy, upscale evening inside a beautifully restored 1889 schoolhouse"
       },
       {
         "icon": "fas fa-camera",
-        "text": "Dress up and snap a photo of you two (sharing is optional)"
+        "text": "Dress up, enjoy local cuisine, and make unforgettable memories"
       },
       {
         "icon": "fas fa-check",
@@ -185,7 +185,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1761320492509_0",
+      "id": "q_auto_1761320621791_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -207,7 +207,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1761320492509_1",
+      "id": "q_auto_1761320621791_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -229,7 +229,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1761320492509_2",
+      "id": "q_auto_1761320621791_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
