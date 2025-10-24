@@ -7,7 +7,7 @@ const config = {
   "giveaway": {
     "heroHeadline": "Win a <span class='highlight'>$400 Date Night</span> for Two!",
     "heroSubheadline": "Dine fine. Sip wine. You choose your perfect night. Valued at $400. Entry ends Nov 10, 2025. Winner drawn Nov 11, 2025.",
-    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/a10d555etxrme0csmqhbk9q744.jpg",
+    "heroBackgroundImageUrl": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-fall-decor(1).jpg",
     "promotionDates": "Enter by Nov 10, 2025. Winner announced Nov 11, 2025.",
     "endDate": "2025-11-11T03:59:00.000Z",
     "heroCtaText": "Enter to Win Now!",
@@ -41,7 +41,7 @@ const config = {
         "alt": "$400 Gift Card"
       },
       {
-        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/giveaways/generations/hfe09jv9tsrme0csmqhszy38pr.jpg",
+        "src": "https://salesgenius.s3.ca-central-1.amazonaws.com/uploads/upload-563754311_18401966515186017_4847285852648248163_n(1).jpg",
         "alt": "Elegant private dining table set for two"
       },
       {
@@ -185,7 +185,7 @@ const config = {
   },
   "modalQuestions": [
     {
-      "id": "q_auto_1761320233083_0",
+      "id": "q_auto_1761320280117_0",
       "questionText": "What do you like the most about your current home?",
       "options": [
         {
@@ -207,7 +207,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1761320233083_1",
+      "id": "q_auto_1761320280117_1",
       "questionText": "Is a move on your radar in the near future?",
       "options": [
         {
@@ -229,7 +229,7 @@ const config = {
       ]
     },
     {
-      "id": "q_auto_1761320233083_2",
+      "id": "q_auto_1761320280117_2",
       "questionText": "What’s your current housing situation?",
       "options": [
         {
